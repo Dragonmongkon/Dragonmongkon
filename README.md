@@ -1,4 +1,5 @@
-[👋](https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json) Hi
+ Hi![wave](https://github.com/user-attachments/assets/23f04345-1079-43b7-b37b-975b4eee8d49)
+
 I am currently a third-year Computer Science major in the Faculty of Science and Technology at Huachiew Chalermprakiet University.
 <!--
 **Dragonmongkon/Dragonmongkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
