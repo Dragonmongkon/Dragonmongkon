@@ -1,4 +1,8 @@
- Hi![wave](https://github.com/user-attachments/assets/23f04345-1079-43b7-b37b-975b4eee8d49)
+ Hi!
+ <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
 
 I am currently a third-year Computer Science major in the Faculty of Science and Technology at Huachiew Chalermprakiet University.
 <!--
