@@ -1,8 +1,7 @@
- Hi!
- <picture>
+<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-</picture>
+</picture>  Hi!
 
 I am currently a third-year Computer Science major in the Faculty of Science and Technology at Huachiew Chalermprakiet University.
 <!--
