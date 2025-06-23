@@ -1,5 +1,5 @@
 # :wave: Hi! I'm Thanapat Iamsamang :wave:
-https://tenor.com/th/view/hand-waving-hand-emoji-gif-14999877618442267107
+
 I am currently a third-year Computer Science major in the Faculty of Science and Technology at Huachiew Chalermprakiet University.
 <!--
 **Dragonmongkon/Dragonmongkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
