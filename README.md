@@ -1,5 +1,5 @@
-## Hi there 👋
-
+[👋](https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json) Hi
+I am currently a third-year Computer Science major in the Faculty of Science and Technology at Huachiew Chalermprakiet University.
 <!--
 **Dragonmongkon/Dragonmongkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
